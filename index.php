@@ -94,6 +94,7 @@ function updateChart() {
 </script>
 </head>
 <body>
+    <p>ztet</p>
 <div id="chartContainer" style="height: 370px; width: 100%;"></div>
 <script src="https://cdn.canvasjs.com/canvasjs.min.js"></script>
 </body>
